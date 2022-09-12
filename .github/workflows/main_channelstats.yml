@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'ChannelStats'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E3A20DA8F98E4E71A7BFA790303F5058 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_92D34ED406274FF79DF269D83EF16C95 }}
