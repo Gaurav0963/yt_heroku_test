@@ -25,7 +25,7 @@ def index():
 
             video_url_list = []
 
-            for url in channel.video_urls[:41]:
+            for url in channel.video_urls[:51]:
                 video_url_list.append(url)
 
             reviews = []
